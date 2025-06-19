@@ -1,4 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// https://www.youtube.com/watch?v=_XYuNrrbMPg
+// https://www.netmentor.es/entrada/extension-members-csharp
+
+
+// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
 // List<int> values = new List<int> { 0,5,6,9,20,55,99 };
